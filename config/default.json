@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://tushar:Tushar4321@cluster0.fcxyfdc.mongodb.net",
+  "jwtSecret":"tushar"
+}
